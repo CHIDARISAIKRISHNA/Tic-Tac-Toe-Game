@@ -17,7 +17,10 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 
 ## How to Run the Game Locally
 
-1. Download or clone this repository to your local machine.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/CHIDARISAIKRISHNA/Tic-Tac-Toe_Game
+    ```
    
 3. Open the `index.html` file in any modern web browser (Google Chrome, Firefox, Safari, etc.).
 4. Start playing the game!
@@ -47,6 +50,3 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request with your improvements.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
