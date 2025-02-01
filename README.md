@@ -18,8 +18,9 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 ## How to Run the Game Locally
 
 1. Download or clone this repository to your local machine.
-2. Open the `index.html` file in any modern web browser (Google Chrome, Firefox, Safari, etc.).
-3. Start playing the game!
+   
+3. Open the `index.html` file in any modern web browser (Google Chrome, Firefox, Safari, etc.).
+4. Start playing the game!
 
 ## Code Explanation
 
