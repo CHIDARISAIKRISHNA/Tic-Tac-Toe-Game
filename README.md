@@ -25,7 +25,7 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 Move into the directory of the cloned project:
 ```bash
   cd Tic-Tac-Toe_Game
-    ```
+```
 3. Open the `index.html` file in any modern web browser (Google Chrome, Firefox, Safari, etc.).
 4. Start playing the game!
 
