@@ -21,8 +21,7 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
     ```bash
    git clone https://github.com/CHIDARISAIKRISHNA/Tic-Tac-Toe_Game
     ```
-2. Navigate to the Project Folder
-Move into the directory of the cloned project:
+2. Navigate to the Project Folder:
 ```bash
   cd Tic-Tac-Toe_Game
 ```
