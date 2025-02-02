@@ -66,7 +66,7 @@ start index.html
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/6c42ec6b-5694-47a0-8498-b9198c9f2ddc)
+![image](![image](https://github.com/user-attachments/assets/6c730cee-28ef-4dd9-9788-dc1f49539580)
 ## How to Contribute
 
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request with your improvements.
