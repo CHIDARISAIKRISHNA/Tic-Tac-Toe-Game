@@ -27,7 +27,7 @@ Move into the directory of the cloned project:
   cd Tic-Tac-Toe_Game
 ```
 3. Open the Project
-To open the index.html file, run the following command based on your operating system:
+To open the index.html file, run the following command based on your operating system:<br>
  For macOS:
   ```bash
  open index.html
