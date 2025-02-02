@@ -26,10 +26,12 @@ Move into the directory of the cloned project:
 ```bash
   cd Tic-Tac-Toe_Game
 ```
-3. open index.html  # For macOS
+3.```bash
+  open index.html  # For macOS
 xdg-open index.html  # For Linux
 start index.html  # For Windows
 
+``
 4. Start playing the game!
 
 ## Code Explanation
