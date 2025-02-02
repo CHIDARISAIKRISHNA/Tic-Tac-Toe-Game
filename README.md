@@ -15,7 +15,7 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 - **CSS**: Used to style the game layout, including grid styling, cell appearance, hover effects, and overall page design.
 - **JavaScript**: Used to handle the game logic, including player turns, board state management, winner checking, and updating the game status.
 
-## How to Run the Game Locally
+## Setup Instructions
 
 1. Clone the repository:
     ```bash
