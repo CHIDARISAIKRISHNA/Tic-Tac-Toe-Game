@@ -64,6 +64,9 @@ start index.html
 - Winning combinations are checked after every move.
 - If a player wins or if there's a tie, the game status is updated accordingly, and the game stops.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/6c42ec6b-5694-47a0-8498-b9198c9f2ddc)
 ## How to Contribute
 
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request with your improvements.
