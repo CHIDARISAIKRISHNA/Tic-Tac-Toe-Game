@@ -26,7 +26,10 @@ Move into the directory of the cloned project:
 ```bash
   cd Tic-Tac-Toe_Game
 ```
-3. Open the `index.html` file in any modern web browser (Google Chrome, Firefox, Safari, etc.).
+3. open index.html  # For macOS
+xdg-open index.html  # For Linux
+start index.html  # For Windows
+
 4. Start playing the game!
 
 ## Code Explanation
